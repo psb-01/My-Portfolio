@@ -50,9 +50,6 @@ I have a particular passion for auditing *Perpetuals, **Stablecoins, and **Lendi
                    HackenProof : https://hackenproof.com/hackers/AshutoshSB  
 ---
 
-### 📫 Contact
-
-- *GitHub:* [@psb01](https://github.com/psb01)  
 
 ---
 
