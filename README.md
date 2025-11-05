@@ -12,22 +12,23 @@ I have a particular passion for auditing *Perpetuals, **Stablecoins, and **Lendi
 
 ##  Audit Experience
 
-| Protocol | Platform | Findings (H / M / L) | Language | Ecosystem | Rank |
+| Protocol | Platform | Findings | Language | Ecosystem | Rank |
 |-----------|-----------|----------------------|-----------|------------|------|
-| **Bluefin Protocol** | HackenProof | 1 / 0 / 1 | MOVE | SUI | #3 |
-| **Basin** | Code4rena | 1 / 0 / 0 | Solidity | EVM | #11 |
-| **Beanstalk: The Finale** | CodeHawks | 2 / 1 / 0 | Solidity | EVM | #6 |
-| **Teller Finance** | Sherlock | 1 / 1 / 0 | Solidity | EVM | #33 |
-| **RadicalxChange** | Sherlock | 1 / 0 / 0 | Solidity | EVM | #3 |
-| **Zap Protocol** | Sherlock | 1 / 0 / 0 | Solidity | EVM | #12 |
-| **INITIA-MOVE** | - | 0 / 0 / 1 | MOVE | SUI | - |
-| **Althea Liquid Infrastructure** | Code4rena | 1 / 0 / 0 | Solidity | EVM | #34 |
-| **Telcoin Platform Audit** | Sherlock | 1 / 0 / 0 | Solidity | EVM | #9 |
-| **The Standard** | CodeHawks | 0 / 1 / 0 | Solidity | EVM | #104 |
-| **The Wildcat Protocol** | Code4rena | 1 / 0 / 0 | Solidity | EVM | - |
-| **Blen-V2 Protocol** | Code4rena | 0 / 0 / 1 | Solidity | EVM | - |
-| **collar-core Protocol** | Cantina | 0 / 0 / 1 | Solidity | EVM | - |
-| **primev-validator-registry Protocol** | Cantina | 1 / 0 / 1 | Solidity | EVM | - |
+| **Bluefin Protocol** | HackenProof | 1H/ 1L | MOVE | SUI | #3 |
+| **Basin** | Code4rena | 1H   | Solidity | EVM | #11 |
+| **Beanstalk: The Finale** | CodeHawks | 2H/ 1M  | Solidity | EVM | #6 |
+| **primev-validator-registry Protocol** | Cantina | 1H/ 1L | Solidity | EVM | #6 |
+| **RadicalxChange** | Sherlock | 1H  | Solidity | EVM | #3 |
+| **INITIA-MOVE** | Code4rena | 1L    | MOVE | SUI | - |
+| **collar-core Protocol** | Cantina |  1L   | Solidity | EVM | - |
+| **Zap Protocol** | Sherlock | 1H    | Solidity | EVM | #12 |
+| **Teller Finance** | Sherlock | 1H/ 1M | Solidity | EVM | #33 |
+| **Althea Liquid Infrastructure** | Code4rena | 1H    | Solidity | EVM | #34 |
+| **Telcoin Platform Audit** | Sherlock | 1H    | Solidity | EVM | #9 |
+| **The Wildcat Protocol** | Code4rena | 1H    | Solidity | EVM | - |
+| **Blend-V2 Protocol** | Code4rena | 1L   | Solidity | EVM | - |
+| **The Standard** | CodeHawks | 1L   | Solidity | EVM | #104 |
+
 
 ---
 
