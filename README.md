@@ -53,7 +53,6 @@ I have a particular passion for auditing *Perpetuals, **Stablecoins, and **Lendi
 ### 📫 Contact
 
 - *GitHub:* [@psb01](https://github.com/psb01)  
-- *Email:* [yourname@protonmail.com](#)
 
 ---
 
