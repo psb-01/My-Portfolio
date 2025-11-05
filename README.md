@@ -14,20 +14,20 @@ I have a particular passion for auditing *Perpetuals, **Stablecoins, and **Lendi
 
 | Protocol | Platform | Findings (H / M / L) | Language | Ecosystem |
 |-----------|-----------|----------------------|-----------|------------|
-| *Basin* | Code4rena | 1 / 0 / 0 | Solidity | EVM |
-| *Beanstalk: The Finale* | CodeHawks | 2 / 1 / 0 | Solidity | EVM |
-| *Teller Finance* | Sherlock | 1 / 1 / 0 | Solidity | EVM |
-| *RadicalxChange* | Sherlock | 1 / 0 / 0 | Solidity | EVM |
-| *Zap Protocol* | Sherlock | 1 / 0 / 0 | Solidity | EVM |
-| *Bluefin Protocol* | HackenProof | 1 / 0 / 1 | MOVE | SUI |
-| *INITIA-MOVE* | Code4rena | 0 / 0 / 1 | MOVE | SUI |
-| *Althea Liquid Infrastructure* | Code4rena | 1 / 0 / 0 | Solidity | EVM |
-| *Telcoin Platform* | Sherlock | 1 / 0 / 0 | Solidity | EVM |
-| *The Standard* | CodeHawks | 0 / 1 / 0 | Solidity | EVM |
-| *The Wildcat Protocol* | Code4rena | 1 / 0 / 0 | Solidity | EVM |
-| *Blen-V2 Protocol* | Code4rena | 0 / 0 / 1 | Solidity | EVM |
-| *Collar-core Protocol* | Cantina | 0 / 0 / 1 | Solidity | EVM |
-| *Primev-validator-registry Protocol* | Cantina | 1 / 0 / 1 | Solidity | EVM |
+| *Basin* | Code4rena | 1H | Solidity | EVM |
+| *Beanstalk: The Finale* | CodeHawks | 2H/ 1M | Solidity | EVM |
+| *Teller Finance* | Sherlock | 1H/ 1M | Solidity | EVM |
+| *RadicalxChange* | Sherlock | 1H   | Solidity | EVM |
+| *Zap Protocol* | Sherlock | 1H    | Solidity | EVM |
+| *Bluefin Protocol* | HackenProof | 1H/ 1M | MOVE | SUI |
+| *INITIA-MOVE* | Code4rena | 1L | MOVE | SUI |
+| *Althea Liquid Infrastructure* | Code4rena | 1H   | Solidity | EVM |
+| *Telcoin Platform* | Sherlock | 1H    | Solidity | EVM |
+| *The Standard* | CodeHawks |  1M  | Solidity | EVM |
+| *The Wildcat Protocol* | Code4rena | 1H    | Solidity | EVM |
+| *Blen-V2 Protocol* | Code4rena |   1L | Solidity | EVM |
+| *Collar-core Protocol* | Cantina | 1L   | Solidity | EVM |
+| *Primev-validator-registry Protocol* | Cantina | 1H/ 1L | Solidity | EVM |
 
 ---
 
@@ -35,7 +35,7 @@ I have a particular passion for auditing *Perpetuals, **Stablecoins, and **Lendi
 
 | Severity | Count |
 |-----------|--------|
-| *High* | 12 |
+| *High* | 11 |
 | *Medium* | 3 |
 | *Low* | 5 |
 
