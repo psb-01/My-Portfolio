@@ -1,20 +1,21 @@
-# My-Portfolio
-
 #  Smart Contract Audit Portfolio  
 
 ### About Me  
-
-I am a Smart Contract Security Researcher with experience auditing a wide range of protocols including *Lending, **Governance Mechanisms, **Perpetual DEXes, **Liquidity Management Vaults, **Token Launchpads, **Reward Gauges, **veTokenomics Implementations, **DAO Management Protocols, **Orderbook Perp Markets, and **Uniswap V3 Integrations*.  
-
-I have a particular passion for auditing *Perpetuals, **Stablecoins, and **Lending Markets* — focusing on core economic logic, access control, and protocol invariants.  
-
+- *Languages:* Solidity, MOVE  
+- *Ecosystems:* EVM, SUI  
+- *Platforms:* Code4rena, Sherlock, CodeHawks, Cantina, HackenProof  
+- *Platforms Link:* [Sherlock](https://audits.sherlock.xyz/watson/psb01) /
+                    [Codehawks](https://codehawks.cyfrin.io/leaderboard?page=1&s=psb01) / [HackenProof](https://hackenproof.com/hackers/PSB-01?tab=programs)
 ---
 
-##  Audit Experience
+##  Audit Experience 
+ ( Publicly Available Reports Of My Findings Can Be Accessed  [Here](https://audits.sherlock.xyz/watson/psb01) ) 
 
-| Protocol | Platform | Findings | Language | Ecosystem | Rank |
+| Protocol | Platform | Findings | Language | Ecosystem | Rank | 
 |-----------|-----------|----------------------|-----------|------------|------|
+| **Alignerz** | Dualguard | 3H/1M | Solidity | EVM | - |
 | **Bluefin Protocol** | HackenProof | 1H/ 1L | MOVE | SUI | #3 |
+| **Plume Network** | Immunifi | 1M | Solidity | Plume | - |
 | **Basin** | Code4rena | 1H   | Solidity | EVM | #11 |
 | **Beanstalk: The Finale** | CodeHawks | 2H/ 1M  | Solidity | EVM | #6 |
 | **primev-validator-registry Protocol** | Cantina | 1H/ 1L | Solidity | EVM | #6 |
@@ -36,19 +37,10 @@ I have a particular passion for auditing *Perpetuals, **Stablecoins, and **Lendi
 
 | Severity | Count |
 |-----------|--------|
-| *High* | 11 |
-| *Medium* | 3 |
+| *High* | 14 (1 Solo)|
+| *Medium* | 4 |
 | *Low* | 5 |
 
----
-
-### 🧰 Technical Stack
-
-- *Languages:* Solidity, MOVE  
-- *Ecosystems:* EVM, SUI  
-- *Platforms:* Code4rena, Sherlock, CodeHawks, Cantina, HackenProof  
-- *Platforms Link:* Sherlock https://audits.sherlock.xyz/watson/psb01
-                   HackenProof : https://hackenproof.com/hackers/AshutoshSB  
 ---
 
 > “Security is not just about finding bugs, it’s about understanding systems deeply enough to predict how they might break.”
