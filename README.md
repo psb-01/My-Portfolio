@@ -3,7 +3,8 @@
 ### About Me  
 - *Languages:* Solidity, MOVE  
 - *Ecosystems:* EVM, SUI  
-- *Platforms:* Code4rena, Sherlock, CodeHawks, Cantina, HackenProof  
+- All-time #52 on the CodeHawks contest leaderboard.
+- All-time #10 in CodeHawks community judging, reviewing 2,498 reports with ~87% accuracy.
 - *Platforms Link:* [Sherlock](https://audits.sherlock.xyz/watson/psb01) /
                     [Codehawks](https://codehawks.cyfrin.io/leaderboard?page=1&s=psb01) / [HackenProof](https://hackenproof.com/hackers/PSB-01?tab=programs)
 ---
@@ -16,9 +17,9 @@
 | **Alignerz** | Dualguard | 3H/1M | Solidity | EVM | - |
 | **Bluefin Protocol** | HackenProof | 1H/ 1L | MOVE | SUI | #3 |
 | **Plume Network** | Immunifi | 1M | Solidity | Plume | - |
+| **primev-validator-registry Protocol** | Cantina | 1H/ 1L | Solidity | EVM | #6 |
 | **Basin** | Code4rena | 1H   | Solidity | EVM | #11 |
 | **Beanstalk: The Finale** | CodeHawks | 2H/ 1M  | Solidity | EVM | #6 |
-| **primev-validator-registry Protocol** | Cantina | 1H/ 1L | Solidity | EVM | #6 |
 | **RadicalxChange** | Sherlock | 1H  | Solidity | EVM | #3 |
 | **INITIA-MOVE** | Code4rena | 1L    | MOVE | SUI | - |
 | **collar-core Protocol** | Cantina |  1L   | Solidity | EVM | - |
