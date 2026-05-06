@@ -1,12 +1,24 @@
 #  Smart Contract Audit Portfolio  
 
 ### About Me  
-- *Languages:* Solidity, MOVE  
+- *Languages:* Solidity, GO, MOVE  
 - *Ecosystems:* EVM, SUI  
 - All-time #52 on the CodeHawks contest leaderboard.
 - All-time #10 in CodeHawks community judging, reviewing 2,498 reports with ~87% accuracy.
+
 - *Platforms Link:* [Sherlock](https://audits.sherlock.xyz/watson/psb01) /
-                    [Codehawks](https://codehawks.cyfrin.io/leaderboard?page=1&s=psb01) / [HackenProof](https://hackenproof.com/hackers/PSB-01?tab=programs)
+   [Codehawks](https://codehawks.cyfrin.io/leaderboard?page=1&s=psb01) / [HackenProof](https://hackenproof.com/hackers/PSB-01?tab=programs)
+---
+
+##  Bug Bounty Experience 
+
+| Protocol | Platform | Findings | Language | Ecosystem | Rank | 
+|-----------|-----------|----------------------|-----------|------------|------|
+| **Private-Program(yet to disclose)** | HackenProof | 1H | Go | Blockchain/DLT | - |
+| **NEAR Intents: Bridges** | HackenProof | 1M/(Dublicate) | Rust/Solidity | Blockchain | - |
+| **Volo Smart Contract** | HackenProof | 1M/(Dublicate) | Move | SUI | - |
+| **Multipli Smart Contracts** | HackenProof | 1L/(Dublicate) | Solidity | EVM | - |
+
 ---
 
 ##  Audit Experience 
@@ -14,9 +26,10 @@
 
 | Protocol | Platform | Findings | Language | Ecosystem | Rank | 
 |-----------|-----------|----------------------|-----------|------------|------|
+| **Folks Finance: Staking Contracts** | Immunefi | 1M | Solidity | EVM | - |
 | **Alignerz** | Dualguard | 3H/1M | Solidity | EVM | - |
 | **Bluefin Protocol** | HackenProof | 1H/ 1L | MOVE | SUI | #3 |
-| **Plume Network** | Immunifi | 1M | Solidity | Plume | - |
+| **Plume Network** | Immunefi | 1M | Solidity | Plume | - |
 | **primev-validator-registry Protocol** | Cantina | 1H/ 1L | Solidity | EVM | #6 |
 | **Basin** | Code4rena | 1H   | Solidity | EVM | #11 |
 | **Beanstalk: The Finale** | CodeHawks | 2H/ 1M  | Solidity | EVM | #6 |
@@ -31,16 +44,15 @@
 | **Blend-V2 Protocol** | Code4rena | 1L   | Solidity | EVM | - |
 | **The Standard** | CodeHawks | 1L   | Solidity | EVM | #104 |
 
-
 ---
 
 ## 🧩 Summary
 
 | Severity | Count |
 |-----------|--------|
-| *High* | 14 (1 Solo)|
-| *Medium* | 4 |
-| *Low* | 5 |
+| *High* | 15 (2 Solo)|
+| *Medium* | 7 |
+| *Low* | 7 |
 
 ---
 
