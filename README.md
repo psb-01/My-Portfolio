@@ -12,12 +12,12 @@
 
 ##  Bug Bounty Experience 
 
-| Protocol | Platform | Findings | Language | Ecosystem | Rank | 
-|-----------|-----------|----------------------|-----------|------------|------|
-| **Private-Program(yet to disclose)** | HackenProof | 1H | Go | Blockchain/DLT | - |
-| **NEAR Intents: Bridges** | HackenProof | 1M/(Dublicate) | Rust/Solidity | Blockchain | - |
-| **Volo Smart Contract** | HackenProof | 1M/(Dublicate) | Move | SUI | - |
-| **Multipli Smart Contracts** | HackenProof | 1L/(Dublicate) | Solidity | EVM | - |
+| Protocol | Findings | Language | Type | Status | Platform |
+|-----------|-----------|----------------------|-----------|------------|------------|
+| **Private-Program(yet to disclose)** | 1 High | Go | Blockchain/DLT | Solo | HackenProof |
+| **NEAR Intents: Bridges** | 1 Medium | Rust | Bridge | Duplicate | HackenProof |
+| **Volo Smart Contract** | 1 Medium | Move | Smart contract | Duplicate | HackenProof |
+| **Multipli Smart Contracts** | 1 Low | Solidity | Smart contract | Duplicate | HackenProof |
 
 ---
 
