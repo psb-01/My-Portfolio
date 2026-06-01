@@ -14,7 +14,7 @@
 
 | Protocol | Findings | Language | Type | Status | Platform |
 |-----------|-----------|----------------------|-----------|------------|------------|
-| **Private-Program(yet to disclose)** | 1 High | Go | Blockchain/DLT | Solo | HackenProof |
+| **Whitechain Network** | 1 High | Go | Blockchain/DLT | Solo | HackenProof |
 | **NEAR Intents: Bridges** | 1 Medium | Rust | Bridge | Duplicate | HackenProof |
 | **Volo Smart Contract** | 1 Medium | Move | Smart contract | Duplicate | HackenProof |
 | **Multipli Smart Contracts** | 1 Low | Solidity | Smart contract | Duplicate | HackenProof |
