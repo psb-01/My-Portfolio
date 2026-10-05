@@ -1,35 +1,35 @@
-#  Smart Contract Audit Portfolio  
+##  Blockchain Security Research Portfolio  
 
 ### About Me  
-- *Languages:* Solidity, GO, MOVE  
-- *Ecosystems:* EVM, SUI  
+- *Languages:* Solidity, Go
 - All-time #52 on the CodeHawks contest leaderboard.
 - All-time #10 in CodeHawks community judging, reviewing 2,498 reports with ~87% accuracy.
+- All-time #272 on the HackenProof bug bounty leaderboard.
 
 - *Platforms Link:* [Sherlock](https://audits.sherlock.xyz/watson/psb01) /
-   [Codehawks](https://codehawks.cyfrin.io/leaderboard?page=1&s=psb01) / [HackenProof](https://hackenproof.com/hackers/PSB-01?tab=programs)
+   [Codehawks](https://codehawks.cyfrin.io/leaderboard?page=1&s=psb01) / [HackenProof](https://hackenproof.com/hackers/psb01?tab=programs)
 ---
 
-##  Bug Bounty Experience 
+###  Bug Bounty Experience 
 
 | Protocol | Findings | Language | Type | Status | Platform |
 |-----------|-----------|----------------------|-----------|------------|------------|
-| **Layer 1 (EVM-compatible)** | 1 High | Go | Blockchain/DLT | Solo | HackenProof |
-| **NEAR Intents: Bridges** | 1 Medium | Rust | Bridge | Duplicate | HackenProof |
-| **Volo Smart Contract** | 1 Medium | Move | Smart contract | Duplicate | HackenProof |
-| **Multipli Smart Contracts** | 1 Low | Solidity | Smart contract | Duplicate | HackenProof |
+| **Kaia Protocol** | 1 High/ 1 Low | Go | Blockchain/DLT | Resolved | HackenProof |
+| **Whitechain Network** | 1 High | Go | Blockchain/DLT | Resolved | HackenProof |
+| **L1 (Wasm-based)** | 3 Low | Rust | Blockchain/DLT | Paid | HackenProof |
 
+#### Along with 19 valid duplicate findings across VeChainThor, Kaia Protocol, Account Abstraction, Bluefin Dex, STON.fi DEX, Bucket Protocol etc.
 ---
 
-##  Contest Experience 
+###  Contest Experience 
  ( Publicly Available Reports Of My Findings Can Be Accessed  [Here](https://audits.sherlock.xyz/watson/psb01) ) 
 
 | Protocol | Platform | Findings | Language | Ecosystem | Rank | 
 |-----------|-----------|----------------------|-----------|------------|------|
-| **Folks Finance: Staking Contracts** | Immunefi | 1M | Solidity | EVM | - |
+| **Folks Finance: Staking Contracts** | Immunefi | 1L | Solidity | EVM | - |
 | **Alignerz** | Dualguard | 3H/1M | Solidity | EVM | - |
 | **Bluefin Protocol** | HackenProof | 1H/ 1L | MOVE | SUI | #3 |
-| **Plume Network** | Immunefi | 1M | Solidity | Plume | - |
+| **Plume Network** | Immunefi | 1L | Solidity | Plume | - |
 | **primev-validator-registry Protocol** | Cantina | 1H/ 1L | Solidity | EVM | #6 |
 | **Basin** | Code4rena | 1H   | Solidity | EVM | #11 |
 | **Beanstalk: The Finale** | CodeHawks | 2H/ 1M  | Solidity | EVM | #6 |
@@ -50,9 +50,9 @@
 
 | Severity | Count |
 |-----------|--------|
-| *High* | 15 (2 Solo)|
-| *Medium* | 7 |
-| *Low* | 7 |
+| *High* | 16 (3 Solo)|
+| *Medium* | 15 |
+| *Low* | 19 (4 solo) |
 
 ---
 
