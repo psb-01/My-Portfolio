@@ -26,6 +26,7 @@
 
 | Protocol | Platform | Findings | Language | Ecosystem | Rank | 
 |-----------|-----------|----------------------|-----------|------------|------|
+| **Polygon Heimdall** | Sherlock | 1M/12L | Go | EVM | #28 |
 | **Folks Finance: Staking Contracts** | Immunefi | 1L | Solidity | EVM | - |
 | **Alignerz** | Dualguard | 3H/1M | Solidity | EVM | - |
 | **Bluefin Protocol** | HackenProof | 1H/ 1L | MOVE | SUI | #3 |
@@ -50,9 +51,9 @@
 
 | Severity | Count |
 |-----------|--------|
-| *High* | 16 (3 Solo)|
+| *High* | 17 (3 Solo)|
 | *Medium* | 15 |
-| *Low* | 19 (4 solo) |
+| *Low* | 31 (4 solo) |
 
 ---
 
