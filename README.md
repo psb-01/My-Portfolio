@@ -4,7 +4,7 @@
 - *Languages:* Solidity, Go
 - All-time #52 on the CodeHawks contest leaderboard.
 - All-time #10 in CodeHawks community judging, reviewing 2,498 reports with ~87% accuracy.
-- All-time #272 on the HackenProof bug bounty leaderboard.
+- All-time #276 on the HackenProof bug bounty leaderboard.
 
 - *Platforms Link:* [Sherlock](https://audits.sherlock.xyz/watson/psb01) /
    [Codehawks](https://codehawks.cyfrin.io/leaderboard?page=1&s=psb01) / [HackenProof](https://hackenproof.com/hackers/psb01?tab=programs)
@@ -16,7 +16,7 @@
 |-----------|-----------|----------------------|-----------|------------|------------|
 | **Kaia Protocol** | 1 High/ 1 Low | Go | Blockchain/DLT | Resolved | HackenProof |
 | **Whitechain Network** | 1 High | Go | Blockchain/DLT | Resolved | HackenProof |
-| **L1 (Wasm-based)** | 3 Low | Rust | Blockchain/DLT | Paid | HackenProof |
+| **L1 (Wasm-based)** | 4 Low | Rust | Blockchain/DLT | Paid | HackenProof |
 
 #### Along with 19 valid duplicate findings across VeChainThor, Kaia Protocol, Account Abstraction, Bluefin Dex, STON.fi DEX, Bucket Protocol etc.
 ---
@@ -53,7 +53,7 @@
 |-----------|--------|
 | *High* | 17 (3 Solo)|
 | *Medium* | 15 |
-| *Low* | 31 (4 solo) |
+| *Low* | 32 (4 solo) |
 
 ---
 
