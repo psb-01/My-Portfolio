@@ -18,7 +18,7 @@
 | **Whitechain Network** | 1 High | Go | Blockchain/DLT | Resolved | HackenProof |
 | **L1 (Wasm-based)** | 4 Low | Rust | Blockchain/DLT | Paid | HackenProof |
 
-#### Along with 19 valid duplicate findings across VeChainThor, Kaia Protocol, Account Abstraction, Bluefin Dex, STON.fi DEX, Bucket Protocol etc.
+#### Along with 16 valid duplicate findings across VeChainThor, Kaia Protocol, Account Abstraction, Bluefin Dex, STON.fi DEX, Bucket Protocol etc.
 ---
 
 ###  Contest Experience 
