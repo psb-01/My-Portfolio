@@ -26,7 +26,7 @@
 
 | Protocol | Platform | Findings | Language | Ecosystem | Rank | 
 |-----------|-----------|----------------------|-----------|------------|------|
-| **Polygon Heimdall** | Sherlock | 1M/12L | Go | EVM | #28 |
+| **Blockchain Infra (PoS Consensus)** | Sherlock | 1M/12L | Go | EVM | #28 |
 | **Folks Finance: Staking Contracts** | Immunefi | 1L | Solidity | EVM | - |
 | **Alignerz** | Dualguard | 3H/1M | Solidity | EVM | - |
 | **Bluefin Protocol** | HackenProof | 1H/ 1L | MOVE | SUI | #3 |
