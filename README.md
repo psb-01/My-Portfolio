@@ -4,7 +4,7 @@
 - *Languages:* Solidity, Go
 - All-time #52 on the CodeHawks contest leaderboard.
 - All-time #10 in CodeHawks community judging, reviewing 2,498 reports with ~87% accuracy.
-- All-time #276 on the HackenProof bug bounty leaderboard.
+- All-time #270 on the HackenProof bug bounty leaderboard.
 
 - *Platforms Link:* [Sherlock](https://audits.sherlock.xyz/watson/psb01) /
    [Codehawks](https://codehawks.cyfrin.io/leaderboard?page=1&s=psb01) / [HackenProof](https://hackenproof.com/hackers/psb01?tab=programs)
